@@ -54,7 +54,7 @@ public class HomeWork2 {
     }
 
     private static void changeArray() {
-        int[] arr = {1, 1, 0, 0, 0, 1, 0, 1, 1, 0};
+        int[] arr = {1, 1, 0, 0, 0, 1, 1, 0, 1, 0};
         for (int i = 0; i < 10; i++) {
             if (arr[i] == 0) arr[i] = 1;
             else arr[i] = 0;
