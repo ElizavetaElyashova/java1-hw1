@@ -2,7 +2,7 @@
  * Java 1 HomeWork 2
  *
  * @author Elizaveta Elyashova
- * @version 13.08.2018
+ * @version 14.08.2018
  */
 import java.util.Arrays;
 
