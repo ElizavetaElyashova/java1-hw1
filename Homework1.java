@@ -18,7 +18,7 @@ public class Homework1 {
         System.out.println ("Задание 4: " + sum_from10to20(5,8));
 
         System.out.print ("Задание 5: ");
-        is_positive(-45);
+        is_positive(-46);
 
         System.out.println ("Задание 6: " + is_negative(-23));
 
