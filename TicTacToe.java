@@ -1,8 +1,8 @@
 /**
  * Java 1. Lesson 4. Tic-tac-toe in console
  *
- * @author Sergey Iryupin
- * @version dated Feb 02, 2017
+ * @author Elizaveta Elyashova
+ * @version 24/08/2018
  */
 import java.util.Random;
 import java.util.Scanner;
